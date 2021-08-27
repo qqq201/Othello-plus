@@ -2,7 +2,7 @@
 ## Gameplay rules
 Regular [Othello](https://www.ultraboardgames.com/othello/game-rules.php)'rules with some variations:
 - The game is over when one of the two players is not able to make a move (instead of both likes the original)
-- Added 5 special cells called victory cells. The game would end immediately if one player occupied all victory cells.
+- Adding 5 special cells called victory cells. The game would end immediately if one player occupied all victory cells.
 - In the end game if both players have the same number of discs on the board, the player containing the more victory cells will win. Otherwise, it'll be a draw.
 
 <image src="https://user-images.githubusercontent.com/61228506/131079051-cbeb5822-52cc-4584-ba19-cd97cdae4063.png" alt="preview" width="500"/>
