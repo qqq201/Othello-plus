@@ -35,7 +35,7 @@ class PlayState(BaseState):
 
             if in_turn == self.player_color:
                 self.winner = self.player.play(self.board, mouse, click)
-            elif in_turn != self.player_color:
+            else:
                 self.in_progress = True
                 task = asyncio.create_task(self.ai.play(self.board))
 
