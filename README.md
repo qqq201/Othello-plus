@@ -7,7 +7,8 @@ Regular [Othello](https://www.ultraboardgames.com/othello/game-rules.php)'rules 
 
 <image src="https://user-images.githubusercontent.com/61228506/131079051-cbeb5822-52cc-4584-ba19-cd97cdae4063.png" alt="preview" width="500"/>
 
-Note: this program was built to serve for AI testing purpose only. Thus, some errors may occur.
+
+**Note: this program was built to serve for AI testing purpose only. Thus, some errors may occur.
 
 ## AI
 The AI was implemented based on Adversarial search with additional algorithms that helps enhance the performance.
